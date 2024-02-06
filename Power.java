@@ -7,5 +7,5 @@ public class Power{
     System.out.print("Enter the power: ");
     int b=sc.nextInt();
     double pow=Math.pow(a,b);
-    System.out.println("power: "pow);
+    System.out.println("power: "+pow);
   }}
