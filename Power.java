@@ -8,4 +8,5 @@ public class Power{
     int b=sc.nextInt();
     double pow=Math.pow(a,b);
     System.out.println("power: "+pow);
-  }}
+  }
+}
